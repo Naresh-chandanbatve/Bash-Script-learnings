@@ -1,0 +1,17 @@
+./backup.sh: line 11: rsync: command not found
+sending incremental file list
+created directory ./backup/backup_20231106_212334
+./
+backup.sh
+case.sh
+condition.sh
+for.sh
+function.sh
+input.sh
+while.sh
+backup/
+logs/
+logs/backup.log
+
+sent 2,120 bytes  received 241 bytes  4,722.00 bytes/sec
+total size is 1,310  speedup is 0.55
